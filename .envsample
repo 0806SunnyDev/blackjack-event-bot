@@ -1,0 +1,2 @@
+CONTRACT_ADDRESS=0x004D4E252aCb397E95DfBa84F7a882D962237cbb
+MONGODB_URI=mongodb://localhost:27017/quaifly_blackjack
